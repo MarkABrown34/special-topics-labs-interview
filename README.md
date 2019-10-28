@@ -32,16 +32,18 @@ Q2: What is the answer?
 Hello!  In the rush that is the start of the term, I really haven't had a chance to chat with many of you.  So would you do me the favor of helping me get to know a bit about you by answering the following?  Please avoid one word answers... I want to learn about you!
 
 Q1: So you're finishing up your time in this CSCC program.  Why did you decide to embark on this journey?
-A1:
+A1: Having no computer science background, I was recommended to take the course to gain some technical acumen.
 
 Q2: I _love_ to travel.  Tell me a bit about your favorite travel destination so far.  What's on your travel bucket list?
-A2:
+A2: I also love travel, and so does my wife.  We've been to lots of places in the states, but have yet to travel abroad, which we hope to remedy next year.  So far, I've loved Colorado, Chicago, Vegas, and Disney World best of all.
 
 Q3: Name your favorite member of [The Beatles](https://en.wikipedia.org/wiki/The_Beatles), and your favorite Beatles song.  You do know at least one Beatles song, right?  If you are a Beatles fan, feel free to give me your top 5 or so.
-A3:
+A3: George Harrison, the unsung hero of the Beatles.  Enjoyed his writing style and solo work the best.  While My Guitar Gently Weeps is my clear favorite, but I also thoroughly enjoy Let It Be and Hey Jude.
+*Interesting side note:  My wife and I just watched a movie called "Yesterday" that explores the idea that most of the world's population has forgotten the Beatles' music save for a musician who then goes about recreating and releasing their catalog.
+A good movie--falls a little flat but the concept is excellent.
 
 Q4: Do you have any pets? Species/Name/Details please. [Murray](images/Murray.jpeg?raw) wants to know... (he's not as smart as that picture makes him seem).
-A4:
+A4: One cat, a calico mix named Mallory.
 
 
 ## Submitting Your Work
