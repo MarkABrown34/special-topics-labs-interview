@@ -36,6 +36,8 @@ A1: Having no computer science background, I was recommended to take the course 
 
 Q2: I _love_ to travel.  Tell me a bit about your favorite travel destination so far.  What's on your travel bucket list?
 A2: I also love travel, and so does my wife.  We've been to lots of places in the states, but have yet to travel abroad, which we hope to remedy next year.  So far, I've loved Colorado, Chicago, Vegas, and Disney World best of all.
+A2 Comment Addendum:  We're talking about starting with London due to there being less of a language barrier, and also because we have a three year old, so the less we have to concentrate on (i.e. translating), the better.
+Ultimately there is a lengthy list we want to visit.  My wife is dying to see Greece, and I'd love to go to Egypt.
 
 Q3: Name your favorite member of [The Beatles](https://en.wikipedia.org/wiki/The_Beatles), and your favorite Beatles song.  You do know at least one Beatles song, right?  If you are a Beatles fan, feel free to give me your top 5 or so.
 A3: George Harrison, the unsung hero of the Beatles.  Enjoyed his writing style and solo work the best.  While My Guitar Gently Weeps is my clear favorite, but I also thoroughly enjoy Let It Be and Hey Jude.
